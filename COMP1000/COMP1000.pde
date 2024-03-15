@@ -3,7 +3,7 @@ int pacPosY;
 int pacMouth;
 int direction;
 int speed;
-
+//comment
 
 void setup() {
   background(0);
